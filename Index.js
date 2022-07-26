@@ -2,8 +2,8 @@ import ProductosManager from './contenedor.js';
 
 const productService = new ProductosManager();
 let producto = {
-                  nombre: 'mouse',
-                  price: 3500,
+                  nombre: 'teclado',
+                  price: 7500,
                   thumbnail:'https://hardzone.es/app/uploads-hardzone.es/2020/09/Teclado-60.jpg',
           }
 

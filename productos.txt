@@ -4,5 +4,11 @@
     "price": 3500,
     "thumbnail": "https://hardzone.es/app/uploads-hardzone.es/2020/09/Teclado-60.jpg",
     "id": 1
+  },
+  {
+    "nombre": "teclado",
+    "price": 7500,
+    "thumbnail": "https://hardzone.es/app/uploads-hardzone.es/2020/09/Teclado-60.jpg",
+    "id": 2
   }
 ]
